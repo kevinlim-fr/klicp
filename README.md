@@ -1,2 +1,2 @@
 # klicp (Work in Progress)
-My OpenSource Open Source Code Patrimony
+My Open Source Code Patrimony
